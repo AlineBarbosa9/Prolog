@@ -1,0 +1,1 @@
+soma(A,B,Resp) :- Resp is A + B.
